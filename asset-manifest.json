@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/css/main.9e3a758a.css",
-    "main.js": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/js/main.1f651972.js",
+    "main.js": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/js/main.d90896c9.js",
     "static/media/graph.jpg": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/media/graph.bde1b059f18660b8ecd8.jpg",
     "static/media/phone.png": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/media/phone.76903242e0022fe32f01.png",
     "static/media/nike-cap.jpg": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/media/nike-cap.55253bc00c4de9a2fcb9.jpg",
@@ -11,10 +11,10 @@
     "static/media/nike1.webp": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/media/nike1.96ffd5cebb32e7692765.webp",
     "index.html": " https:// Yagazie-davidson.github.io/Dashboard-SH/index.html",
     "main.9e3a758a.css.map": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/css/main.9e3a758a.css.map",
-    "main.1f651972.js.map": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/js/main.1f651972.js.map"
+    "main.d90896c9.js.map": " https:// Yagazie-davidson.github.io/Dashboard-SH/static/js/main.d90896c9.js.map"
   },
   "entrypoints": [
     "static/css/main.9e3a758a.css",
-    "static/js/main.1f651972.js"
+    "static/js/main.d90896c9.js"
   ]
 }
