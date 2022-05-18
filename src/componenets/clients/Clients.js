@@ -28,11 +28,11 @@ const Clients = () => {
       <table className='clients-table'>
         <thead >
           <tr>
+            <th>Id:</th>
             <th></th>
-            <th className='move-left'>Full Name</th>
-            <th>Email</th>
-            <th>Phone Number</th>
-            
+            <th className='move-left'>Full Name:</th>
+            <th>Email:</th>
+            <th>Phone Number:</th>
           </tr>
         </thead>
         
@@ -42,6 +42,7 @@ const Clients = () => {
         { Customers ? Customers?.map((customer, idx)=>(
             <tr key={idx}>
 
+              <td>{customer.id}</td>
               <td><img src={customer.image} alt=''/> </td> 
               <td className='move-left'>{customer.name}</td>
               
